@@ -1,3 +1,5 @@
+apologies for the unorganized jumble.  I have been troubleshooting double hashing for days now.  
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
