@@ -1,0 +1,27 @@
+.dashboard-container {
+    margin: 20px;
+  }
+  
+  .categories {
+    margin-bottom: 20px;
+  }
+  
+  .categories ul {
+    background-color: #f8f9fa;
+    padding: 10px;
+    border-radius: 5px;
+  }
+  
+  .questions {
+    background-color: #ffffff;
+    padding: 10px;
+    border-radius: 5px;
+  }
+  
+  .questions h3 {
+    color: #34495e;
+  }
+  
+  .questions p {
+    color: #7f8c8d;
+  }

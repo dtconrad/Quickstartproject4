@@ -1,0 +1,31 @@
+.register-container {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.register-container input {
+  max-width: 300px;
+  margin: 10px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.register-container button {
+  width: 150px;
+  background-color: #28a745; /* Green for the Register button */
+  color: white;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 15px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.register-container button:hover {
+  background-color: #218838;
+}
+
+.register-container p {
+  color: red;
+}
